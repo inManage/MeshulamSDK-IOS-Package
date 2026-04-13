@@ -1,5 +1,4 @@
 // swift-tools-version:5.7
-
 import PackageDescription
 
 let package = Package(
@@ -10,23 +9,10 @@ let package = Package(
     products: [
         .library(
             name: "MeshulamSDK",
-            targets: ["MeshulamSDKTargets"]
+            targets: ["MeshulamSDK"]
         ),
-    ],
-    dependencies: [
-        .package(url: "https://github.com/Alamofire/Alamofire.git", .upToNextMajor(from: "5.6.1")),
-        .package(url: "https://github.com/airbnb/lottie-spm.git", .upToNextMajor(from: "4.3.3")),
     ],
     targets: [
-        .target(
-            name: "MeshulamSDKTargets",
-            dependencies: [
-                .target(name: "MeshulamSDK"),
-                .product(name: "Alamofire", package: "Alamofire"),
-                .product(name: "Lottie", package: "lottie-spm"),
-            ],
-            path: "Sources/MeshulamSDKTargets"
-        ),
         .binaryTarget(
             name: "MeshulamSDK",
             path: "MeshulamSDK/MeshulamSDK.xcframework"
