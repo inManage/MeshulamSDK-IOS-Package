@@ -7657,1183 +7657,1183 @@
   },
   "ConstValues": [
     {
-      "filePath": "\/Users\/omerm\/Desktop\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/Api\/Responses\/BaseInnerResponse.swift",
+      "filePath": "\/Users\/omerm\/Documents\/GitHub\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/Api\/Responses\/BaseInnerResponse.swift",
       "kind": "IntegerLiteral",
       "offset": 182,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/omerm\/Desktop\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/Managers\/MeshulamNetworkManager.swift",
+      "filePath": "\/Users\/omerm\/Documents\/GitHub\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/Managers\/MeshulamNetworkManager.swift",
       "kind": "StringLiteral",
       "offset": 654,
       "length": 33,
       "value": "\"https:\/\/sandbox.meshulam.co.il\/\""
     },
     {
-      "filePath": "\/Users\/omerm\/Desktop\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/Managers\/MeshulamNetworkManager.swift",
+      "filePath": "\/Users\/omerm\/Documents\/GitHub\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/Managers\/MeshulamNetworkManager.swift",
       "kind": "StringLiteral",
       "offset": 690,
       "length": 32,
       "value": "\"https:\/\/secure.meshulam.co.il\/\""
     },
     {
-      "filePath": "\/Users\/omerm\/Desktop\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/Managers\/MeshulamNetworkManager.swift",
+      "filePath": "\/Users\/omerm\/Documents\/GitHub\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/Managers\/MeshulamNetworkManager.swift",
       "kind": "StringLiteral",
       "offset": 779,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/omerm\/Desktop\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/Managers\/MeshulamNetworkManager.swift",
+      "filePath": "\/Users\/omerm\/Documents\/GitHub\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/Managers\/MeshulamNetworkManager.swift",
       "kind": "IntegerLiteral",
       "offset": 826,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/omerm\/Desktop\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/Managers\/MeshulamNetworkManager.swift",
+      "filePath": "\/Users\/omerm\/Documents\/GitHub\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/Managers\/MeshulamNetworkManager.swift",
       "kind": "IntegerLiteral",
       "offset": 875,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/omerm\/Desktop\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/Managers\/MeshulamNetworkManager.swift",
+      "filePath": "\/Users\/omerm\/Documents\/GitHub\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/Managers\/MeshulamNetworkManager.swift",
       "kind": "IntegerLiteral",
       "offset": 927,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/omerm\/Desktop\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/Managers\/MeshulamNetworkManager.swift",
+      "filePath": "\/Users\/omerm\/Documents\/GitHub\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/Managers\/MeshulamNetworkManager.swift",
       "kind": "BooleanLiteral",
       "offset": 1021,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/omerm\/Desktop\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/Managers\/MeshulamNetworkManager.swift",
+      "filePath": "\/Users\/omerm\/Documents\/GitHub\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/Managers\/MeshulamNetworkManager.swift",
       "kind": "StringLiteral",
       "offset": 8241,
       "length": 7,
       "value": "\":#[]@\""
     },
     {
-      "filePath": "\/Users\/omerm\/Desktop\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/Managers\/MeshulamNetworkManager.swift",
+      "filePath": "\/Users\/omerm\/Documents\/GitHub\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/Managers\/MeshulamNetworkManager.swift",
       "kind": "StringLiteral",
       "offset": 8346,
       "length": 13,
       "value": "\"!$&'()*+,;=\""
     },
     {
-      "filePath": "\/Users\/omerm\/Desktop\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/Managers\/MeshulamNetworkManager.swift",
+      "filePath": "\/Users\/omerm\/Documents\/GitHub\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/Managers\/MeshulamNetworkManager.swift",
       "kind": "StringLiteral",
       "offset": 8449,
       "length": 54,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/omerm\/Desktop\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/Managers\/MeshulamNetworkManager.swift",
+      "filePath": "\/Users\/omerm\/Documents\/GitHub\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/Managers\/MeshulamNetworkManager.swift",
       "kind": "StringLiteral",
       "offset": 8478,
       "length": 1,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/omerm\/Desktop\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/Managers\/MeshulamNetworkManager.swift",
+      "filePath": "\/Users\/omerm\/Documents\/GitHub\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/Managers\/MeshulamNetworkManager.swift",
       "kind": "StringLiteral",
       "offset": 8502,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/omerm\/Desktop\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/Managers\/MeshulamPopupManager.swift",
+      "filePath": "\/Users\/omerm\/Documents\/GitHub\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/Managers\/MeshulamPopupManager.swift",
       "kind": "IntegerLiteral",
       "offset": 174,
       "length": 1,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/omerm\/Desktop\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/Managers\/MeshulamPopupManager.swift",
+      "filePath": "\/Users\/omerm\/Documents\/GitHub\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/Managers\/MeshulamPopupManager.swift",
       "kind": "IntegerLiteral",
       "offset": 177,
       "length": 12,
       "value": "2"
     },
     {
-      "filePath": "\/Users\/omerm\/Desktop\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/Managers\/MeshulamPopupManager.swift",
+      "filePath": "\/Users\/omerm\/Documents\/GitHub\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/Managers\/MeshulamPopupManager.swift",
       "kind": "IntegerLiteral",
       "offset": 191,
       "length": 7,
       "value": "3"
     },
     {
-      "filePath": "\/Users\/omerm\/Desktop\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/Managers\/MeshulamPaymentManager.swift",
+      "filePath": "\/Users\/omerm\/Documents\/GitHub\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/Managers\/MeshulamPaymentManager.swift",
       "kind": "BooleanLiteral",
       "offset": 822,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/omerm\/Desktop\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/Managers\/MeshulamPaymentManager.swift",
+      "filePath": "\/Users\/omerm\/Documents\/GitHub\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/Managers\/MeshulamPaymentManager.swift",
       "kind": "BooleanLiteral",
       "offset": 855,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/omerm\/Desktop\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/Managers\/MeshulamTranslationManager.swift",
+      "filePath": "\/Users\/omerm\/Documents\/GitHub\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/Managers\/MeshulamTranslationManager.swift",
       "kind": "Dictionary",
       "offset": 263,
       "length": 3,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/omerm\/Desktop\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/MeshulamTranslations.swift",
+      "filePath": "\/Users\/omerm\/Documents\/GitHub\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/MeshulamTranslations.swift",
       "kind": "StringLiteral",
       "offset": 216,
       "length": 23,
       "value": "\"key_sdk_activity_wait\""
     },
     {
-      "filePath": "\/Users\/omerm\/Desktop\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/MeshulamTranslations.swift",
+      "filePath": "\/Users\/omerm\/Documents\/GitHub\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/MeshulamTranslations.swift",
       "kind": "StringLiteral",
       "offset": 284,
       "length": 24,
       "value": "\"key_sdk_activity_title\""
     },
     {
-      "filePath": "\/Users\/omerm\/Desktop\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/MeshulamTranslations.swift",
+      "filePath": "\/Users\/omerm\/Documents\/GitHub\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/MeshulamTranslations.swift",
       "kind": "StringLiteral",
       "offset": 358,
       "length": 29,
       "value": "\"key_cancel_payment_gray_btn\""
     },
     {
-      "filePath": "\/Users\/omerm\/Desktop\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/MeshulamTranslations.swift",
+      "filePath": "\/Users\/omerm\/Documents\/GitHub\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/MeshulamTranslations.swift",
       "kind": "StringLiteral",
       "offset": 437,
       "length": 29,
       "value": "\"key_cancel_payment_blue_btn\""
     },
     {
-      "filePath": "\/Users\/omerm\/Desktop\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/MeshulamTranslations.swift",
+      "filePath": "\/Users\/omerm\/Documents\/GitHub\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/MeshulamTranslations.swift",
       "kind": "StringLiteral",
       "offset": 513,
       "length": 26,
       "value": "\"key_cancel_payment_title\""
     },
     {
-      "filePath": "\/Users\/omerm\/Desktop\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/MeshulamTranslations.swift",
+      "filePath": "\/Users\/omerm\/Documents\/GitHub\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/MeshulamTranslations.swift",
       "kind": "StringLiteral",
       "offset": 582,
       "length": 22,
       "value": "\"key_error_dialog_btn\""
     },
     {
-      "filePath": "\/Users\/omerm\/Desktop\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/MeshulamTranslations.swift",
+      "filePath": "\/Users\/omerm\/Documents\/GitHub\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/MeshulamTranslations.swift",
       "kind": "StringLiteral",
       "offset": 653,
       "length": 28,
       "value": "\"key_retry_payment_gray_btn\""
     },
     {
-      "filePath": "\/Users\/omerm\/Desktop\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/MeshulamTranslations.swift",
+      "filePath": "\/Users\/omerm\/Documents\/GitHub\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/MeshulamTranslations.swift",
       "kind": "StringLiteral",
       "offset": 730,
       "length": 28,
       "value": "\"key_retry_payment_blue_btn\""
     },
     {
-      "filePath": "\/Users\/omerm\/Desktop\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/MeshulamTranslations.swift",
+      "filePath": "\/Users\/omerm\/Documents\/GitHub\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/MeshulamTranslations.swift",
       "kind": "StringLiteral",
       "offset": 804,
       "length": 25,
       "value": "\"key_retry_payment_title\""
     },
     {
-      "filePath": "\/Users\/omerm\/Desktop\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/MeshulamTranslations.swift",
+      "filePath": "\/Users\/omerm\/Documents\/GitHub\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/MeshulamTranslations.swift",
       "kind": "StringLiteral",
       "offset": 862,
       "length": 12,
       "value": "\"key_ok_btn\""
     },
     {
-      "filePath": "\/Users\/omerm\/Desktop\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/MeshulamTranslations.swift",
+      "filePath": "\/Users\/omerm\/Documents\/GitHub\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/MeshulamTranslations.swift",
       "kind": "StringLiteral",
       "offset": 920,
       "length": 22,
       "value": "\"הבנתי, תודה\""
     },
     {
-      "filePath": "\/Users\/omerm\/Desktop\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/MeshulamTranslations.swift",
+      "filePath": "\/Users\/omerm\/Documents\/GitHub\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/MeshulamTranslations.swift",
       "kind": "StringLiteral",
       "offset": 990,
       "length": 79,
       "value": "\"אנחנו ממתינים לתשובה מביט זה יקח כמה רגעים\""
     },
     {
-      "filePath": "\/Users\/omerm\/Desktop\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/MeshulamTranslations.swift",
+      "filePath": "\/Users\/omerm\/Documents\/GitHub\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/MeshulamTranslations.swift",
       "kind": "StringLiteral",
       "offset": 1118,
       "length": 43,
       "value": "\"מיד תועברו לתשלום בביט\""
     },
     {
-      "filePath": "\/Users\/omerm\/Desktop\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/MeshulamTranslations.swift",
+      "filePath": "\/Users\/omerm\/Documents\/GitHub\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/MeshulamTranslations.swift",
       "kind": "StringLiteral",
       "offset": 1215,
       "length": 12,
       "value": "\"ביטול\""
     },
     {
-      "filePath": "\/Users\/omerm\/Desktop\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/MeshulamTranslations.swift",
+      "filePath": "\/Users\/omerm\/Documents\/GitHub\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/MeshulamTranslations.swift",
       "kind": "StringLiteral",
       "offset": 1281,
       "length": 15,
       "value": "\"המשך עם\""
     },
     {
-      "filePath": "\/Users\/omerm\/Desktop\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/MeshulamTranslations.swift",
+      "filePath": "\/Users\/omerm\/Documents\/GitHub\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/MeshulamTranslations.swift",
       "kind": "StringLiteral",
       "offset": 1347,
       "length": 78,
       "value": "\"האם אתה בטוח שברצונך לבטל את תהליך התשלום?\""
     },
     {
-      "filePath": "\/Users\/omerm\/Desktop\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/MeshulamTranslations.swift",
+      "filePath": "\/Users\/omerm\/Documents\/GitHub\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/MeshulamTranslations.swift",
       "kind": "StringLiteral",
       "offset": 1472,
       "length": 12,
       "value": "\"ביטול\""
     },
     {
-      "filePath": "\/Users\/omerm\/Desktop\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/MeshulamTranslations.swift",
+      "filePath": "\/Users\/omerm\/Documents\/GitHub\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/MeshulamTranslations.swift",
       "kind": "StringLiteral",
       "offset": 1537,
       "length": 12,
       "value": "\"ביטול\""
     },
     {
-      "filePath": "\/Users\/omerm\/Desktop\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/MeshulamTranslations.swift",
+      "filePath": "\/Users\/omerm\/Documents\/GitHub\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/MeshulamTranslations.swift",
       "kind": "StringLiteral",
       "offset": 1602,
       "length": 15,
       "value": "\"המשך עם\""
     },
     {
-      "filePath": "\/Users\/omerm\/Desktop\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/MeshulamTranslations.swift",
+      "filePath": "\/Users\/omerm\/Documents\/GitHub\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/MeshulamTranslations.swift",
       "kind": "StringLiteral",
       "offset": 1667,
       "length": 25,
       "value": "\"האם אתה בטוח \""
     },
     {
-      "filePath": "\/Users\/omerm\/Desktop\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/Api\/Responses\/MeshulamBaseServerResponse.swift",
+      "filePath": "\/Users\/omerm\/Documents\/GitHub\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/Api\/Responses\/MeshulamBaseServerResponse.swift",
       "kind": "IntegerLiteral",
       "offset": 163,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/omerm\/Desktop\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/Api\/Responses\/MeshulamBaseServerResponse.swift",
+      "filePath": "\/Users\/omerm\/Documents\/GitHub\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/Api\/Responses\/MeshulamBaseServerResponse.swift",
       "kind": "IntegerLiteral",
       "offset": 166,
       "length": 13,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/omerm\/Desktop\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/Api\/Responses\/MeshulamBaseServerResponse.swift",
+      "filePath": "\/Users\/omerm\/Documents\/GitHub\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/Api\/Responses\/MeshulamBaseServerResponse.swift",
       "kind": "StringLiteral",
       "offset": 434,
       "length": 8,
       "value": "\"status\""
     },
     {
-      "filePath": "\/Users\/omerm\/Desktop\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/Api\/Responses\/MeshulamBaseServerResponse.swift",
+      "filePath": "\/Users\/omerm\/Documents\/GitHub\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/Api\/Responses\/MeshulamBaseServerResponse.swift",
       "kind": "StringLiteral",
       "offset": 467,
       "length": 5,
       "value": "\"err\""
     },
     {
-      "filePath": "\/Users\/omerm\/Desktop\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/Api\/Responses\/MeshulamBaseServerResponse.swift",
+      "filePath": "\/Users\/omerm\/Documents\/GitHub\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/Api\/Responses\/MeshulamBaseServerResponse.swift",
       "kind": "StringLiteral",
       "offset": 497,
       "length": 6,
       "value": "\"data\""
     },
     {
-      "filePath": "\/Users\/omerm\/Desktop\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/Api\/Requestes\/MeshulamBaseRequest.swift",
+      "filePath": "\/Users\/omerm\/Documents\/GitHub\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/Api\/Requestes\/MeshulamBaseRequest.swift",
       "kind": "BooleanLiteral",
       "offset": 292,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/omerm\/Desktop\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/Api\/Requestes\/MeshulamBaseRequest.swift",
+      "filePath": "\/Users\/omerm\/Documents\/GitHub\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/Api\/Requestes\/MeshulamBaseRequest.swift",
       "kind": "IntegerLiteral",
       "offset": 401,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/omerm\/Desktop\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/Api\/Requestes\/MeshulamBaseRequest.swift",
+      "filePath": "\/Users\/omerm\/Documents\/GitHub\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/Api\/Requestes\/MeshulamBaseRequest.swift",
       "kind": "IntegerLiteral",
       "offset": 444,
       "length": 1,
       "value": "3"
     },
     {
-      "filePath": "\/Users\/omerm\/Desktop\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/Api\/Requestes\/MeshulamBaseRequest.swift",
+      "filePath": "\/Users\/omerm\/Documents\/GitHub\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/Api\/Requestes\/MeshulamBaseRequest.swift",
       "kind": "StringLiteral",
       "offset": 477,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/omerm\/Desktop\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/Api\/Requestes\/MeshulamBaseRequest.swift",
+      "filePath": "\/Users\/omerm\/Documents\/GitHub\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/Api\/Requestes\/MeshulamBaseRequest.swift",
       "kind": "BooleanLiteral",
       "offset": 507,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/omerm\/Desktop\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/Api\/Requestes\/MeshulamBaseRequest.swift",
+      "filePath": "\/Users\/omerm\/Documents\/GitHub\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/Api\/Requestes\/MeshulamBaseRequest.swift",
       "kind": "Dictionary",
       "offset": 550,
       "length": 3,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/omerm\/Desktop\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/Api\/Meshulam.swift",
+      "filePath": "\/Users\/omerm\/Documents\/GitHub\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/Api\/Meshulam.swift",
       "kind": "BooleanLiteral",
       "offset": 336,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/omerm\/Desktop\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/Api\/Meshulam.swift",
+      "filePath": "\/Users\/omerm\/Documents\/GitHub\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/Api\/Meshulam.swift",
       "kind": "StringLiteral",
       "offset": 909,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/omerm\/Desktop\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/Api\/Meshulam.swift",
+      "filePath": "\/Users\/omerm\/Documents\/GitHub\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/Api\/Meshulam.swift",
       "kind": "StringLiteral",
       "offset": 943,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/omerm\/Desktop\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/Api\/Meshulam.swift",
+      "filePath": "\/Users\/omerm\/Documents\/GitHub\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/Api\/Meshulam.swift",
       "kind": "StringLiteral",
       "offset": 977,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/omerm\/Desktop\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/Api\/Meshulam.swift",
+      "filePath": "\/Users\/omerm\/Documents\/GitHub\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/Api\/Meshulam.swift",
       "kind": "StringLiteral",
       "offset": 1013,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/omerm\/Desktop\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/Api\/Meshulam.swift",
+      "filePath": "\/Users\/omerm\/Documents\/GitHub\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/Api\/Meshulam.swift",
       "kind": "StringLiteral",
       "offset": 1052,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/omerm\/Desktop\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/Api\/Meshulam.swift",
+      "filePath": "\/Users\/omerm\/Documents\/GitHub\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/Api\/Meshulam.swift",
       "kind": "StringLiteral",
       "offset": 1083,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/omerm\/Desktop\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/Api\/Meshulam.swift",
+      "filePath": "\/Users\/omerm\/Documents\/GitHub\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/Api\/Meshulam.swift",
       "kind": "StringLiteral",
       "offset": 1116,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/omerm\/Desktop\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/Api\/Meshulam.swift",
+      "filePath": "\/Users\/omerm\/Documents\/GitHub\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/Api\/Meshulam.swift",
       "kind": "StringLiteral",
       "offset": 1158,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/omerm\/Desktop\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/Api\/Meshulam.swift",
+      "filePath": "\/Users\/omerm\/Documents\/GitHub\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/Api\/Meshulam.swift",
       "kind": "StringLiteral",
       "offset": 1199,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/omerm\/Desktop\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/Api\/Meshulam.swift",
+      "filePath": "\/Users\/omerm\/Documents\/GitHub\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/Api\/Meshulam.swift",
       "kind": "StringLiteral",
       "offset": 1236,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/omerm\/Desktop\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/Api\/Meshulam.swift",
+      "filePath": "\/Users\/omerm\/Documents\/GitHub\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/Api\/Meshulam.swift",
       "kind": "StringLiteral",
       "offset": 1276,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/omerm\/Desktop\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/Api\/Meshulam.swift",
+      "filePath": "\/Users\/omerm\/Documents\/GitHub\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/Api\/Meshulam.swift",
       "kind": "StringLiteral",
       "offset": 1317,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/omerm\/Desktop\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/Api\/Meshulam.swift",
+      "filePath": "\/Users\/omerm\/Documents\/GitHub\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/Api\/Meshulam.swift",
       "kind": "StringLiteral",
       "offset": 1362,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/omerm\/Desktop\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/Api\/Meshulam.swift",
+      "filePath": "\/Users\/omerm\/Documents\/GitHub\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/Api\/Meshulam.swift",
       "kind": "Dictionary",
       "offset": 6013,
       "length": 3,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/omerm\/Desktop\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/IOS_13Support\/MeshulamPaymentFields.swift",
+      "filePath": "\/Users\/omerm\/Documents\/GitHub\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/IOS_13Support\/MeshulamPaymentFields.swift",
       "kind": "StringLiteral",
       "offset": 1086,
       "length": 10,
       "value": "\"pageCode\""
     },
     {
-      "filePath": "\/Users\/omerm\/Desktop\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/IOS_13Support\/MeshulamPaymentFields.swift",
+      "filePath": "\/Users\/omerm\/Documents\/GitHub\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/IOS_13Support\/MeshulamPaymentFields.swift",
       "kind": "StringLiteral",
       "offset": 1119,
       "length": 8,
       "value": "\"apiKey\""
     },
     {
-      "filePath": "\/Users\/omerm\/Desktop\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/IOS_13Support\/MeshulamPaymentFields.swift",
+      "filePath": "\/Users\/omerm\/Documents\/GitHub\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/IOS_13Support\/MeshulamPaymentFields.swift",
       "kind": "StringLiteral",
       "offset": 1150,
       "length": 8,
       "value": "\"userId\""
     },
     {
-      "filePath": "\/Users\/omerm\/Desktop\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/IOS_13Support\/MeshulamPaymentFields.swift",
+      "filePath": "\/Users\/omerm\/Documents\/GitHub\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/IOS_13Support\/MeshulamPaymentFields.swift",
       "kind": "StringLiteral",
       "offset": 1183,
       "length": 21,
       "value": "\"pageField[fullName]\""
     },
     {
-      "filePath": "\/Users\/omerm\/Desktop\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/IOS_13Support\/MeshulamPaymentFields.swift",
+      "filePath": "\/Users\/omerm\/Documents\/GitHub\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/IOS_13Support\/MeshulamPaymentFields.swift",
       "kind": "StringLiteral",
       "offset": 1226,
       "length": 18,
       "value": "\"pageField[phone]\""
     },
     {
-      "filePath": "\/Users\/omerm\/Desktop\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/IOS_13Support\/MeshulamPaymentFields.swift",
+      "filePath": "\/Users\/omerm\/Documents\/GitHub\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/IOS_13Support\/MeshulamPaymentFields.swift",
       "kind": "StringLiteral",
       "offset": 1264,
       "length": 5,
       "value": "\"sum\""
     },
     {
-      "filePath": "\/Users\/omerm\/Desktop\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/IOS_13Support\/MeshulamPaymentFields.swift",
+      "filePath": "\/Users\/omerm\/Documents\/GitHub\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/IOS_13Support\/MeshulamPaymentFields.swift",
       "kind": "StringLiteral",
       "offset": 1291,
       "length": 18,
       "value": "\"pageField[email]\""
     },
     {
-      "filePath": "\/Users\/omerm\/Desktop\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/IOS_13Support\/MeshulamPaymentFields.swift",
+      "filePath": "\/Users\/omerm\/Documents\/GitHub\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/IOS_13Support\/MeshulamPaymentFields.swift",
       "kind": "StringLiteral",
       "offset": 1340,
       "length": 13,
       "value": "\"description\""
     },
     {
-      "filePath": "\/Users\/omerm\/Desktop\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/IOS_13Support\/MeshulamPaymentFields.swift",
+      "filePath": "\/Users\/omerm\/Documents\/GitHub\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/IOS_13Support\/MeshulamPaymentFields.swift",
       "kind": "StringLiteral",
       "offset": 1383,
       "length": 15,
       "value": "\"saveCardToken\""
     },
     {
-      "filePath": "\/Users\/omerm\/Desktop\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/IOS_13Support\/MeshulamPaymentFields.swift",
+      "filePath": "\/Users\/omerm\/Documents\/GitHub\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/IOS_13Support\/MeshulamPaymentFields.swift",
       "kind": "StringLiteral",
       "offset": 1432,
       "length": 19,
       "value": "\"companyCommission\""
     },
     {
-      "filePath": "\/Users\/omerm\/Desktop\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/Api\/Responses\/SetBitPaymentResponse.swift",
+      "filePath": "\/Users\/omerm\/Documents\/GitHub\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/Api\/Responses\/SetBitPaymentResponse.swift",
       "kind": "IntegerLiteral",
       "offset": 868,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/omerm\/Desktop\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/Api\/Responses\/SetBitPaymentResponse.swift",
+      "filePath": "\/Users\/omerm\/Documents\/GitHub\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/Api\/Responses\/SetBitPaymentResponse.swift",
       "kind": "Dictionary",
       "offset": 951,
       "length": 3,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/omerm\/Desktop\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/Api\/Responses\/SetBitPaymentResponse.swift",
+      "filePath": "\/Users\/omerm\/Documents\/GitHub\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/Api\/Responses\/SetBitPaymentResponse.swift",
       "kind": "StringLiteral",
       "offset": 1989,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/omerm\/Desktop\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/Api\/Responses\/SetBitPaymentResponse.swift",
+      "filePath": "\/Users\/omerm\/Documents\/GitHub\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/Api\/Responses\/SetBitPaymentResponse.swift",
       "kind": "StringLiteral",
       "offset": 2011,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/omerm\/Desktop\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/Api\/Responses\/SetBitPaymentResponse.swift",
+      "filePath": "\/Users\/omerm\/Documents\/GitHub\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/Api\/Responses\/SetBitPaymentResponse.swift",
       "kind": "StringLiteral",
       "offset": 2035,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/omerm\/Desktop\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/Api\/Responses\/SetBitPaymentResponse.swift",
+      "filePath": "\/Users\/omerm\/Documents\/GitHub\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/Api\/Responses\/SetBitPaymentResponse.swift",
       "kind": "StringLiteral",
       "offset": 2059,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/omerm\/Desktop\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/Api\/Responses\/SetBitPaymentResponse.swift",
+      "filePath": "\/Users\/omerm\/Documents\/GitHub\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/Api\/Responses\/SetBitPaymentResponse.swift",
       "kind": "StringLiteral",
       "offset": 2084,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/omerm\/Desktop\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/Api\/Responses\/SetBitPaymentResponse.swift",
+      "filePath": "\/Users\/omerm\/Documents\/GitHub\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/Api\/Responses\/SetBitPaymentResponse.swift",
       "kind": "StringLiteral",
       "offset": 2104,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/omerm\/Desktop\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/Api\/Responses\/SetBitPaymentResponse.swift",
+      "filePath": "\/Users\/omerm\/Documents\/GitHub\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/Api\/Responses\/SetBitPaymentResponse.swift",
       "kind": "StringLiteral",
       "offset": 2131,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/omerm\/Desktop\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/Api\/Responses\/SetBitPaymentResponse.swift",
+      "filePath": "\/Users\/omerm\/Documents\/GitHub\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/Api\/Responses\/SetBitPaymentResponse.swift",
       "kind": "IntegerLiteral",
       "offset": 2149,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/omerm\/Desktop\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/Api\/Responses\/SetBitPaymentResponse.swift",
+      "filePath": "\/Users\/omerm\/Documents\/GitHub\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/Api\/Responses\/SetBitPaymentResponse.swift",
       "kind": "IntegerLiteral",
       "offset": 2172,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/omerm\/Desktop\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/Api\/Responses\/SetBitPaymentResponse.swift",
+      "filePath": "\/Users\/omerm\/Documents\/GitHub\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/Api\/Responses\/SetBitPaymentResponse.swift",
       "kind": "IntegerLiteral",
       "offset": 2196,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/omerm\/Desktop\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/Api\/Responses\/SetBitPaymentResponse.swift",
+      "filePath": "\/Users\/omerm\/Documents\/GitHub\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/Api\/Responses\/SetBitPaymentResponse.swift",
       "kind": "IntegerLiteral",
       "offset": 2220,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/omerm\/Desktop\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/Api\/Responses\/SetBitPaymentResponse.swift",
+      "filePath": "\/Users\/omerm\/Documents\/GitHub\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/Api\/Responses\/SetBitPaymentResponse.swift",
       "kind": "IntegerLiteral",
       "offset": 2247,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/omerm\/Desktop\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/Api\/Responses\/SetBitPaymentResponse.swift",
+      "filePath": "\/Users\/omerm\/Documents\/GitHub\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/Api\/Responses\/SetBitPaymentResponse.swift",
       "kind": "IntegerLiteral",
       "offset": 2277,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/omerm\/Desktop\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/Api\/Responses\/InitSDKResponse.swift",
+      "filePath": "\/Users\/omerm\/Documents\/GitHub\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/Api\/Responses\/InitSDKResponse.swift",
       "kind": "StringLiteral",
       "offset": 196,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/omerm\/Desktop\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/Api\/Responses\/InitSDKResponse.swift",
+      "filePath": "\/Users\/omerm\/Documents\/GitHub\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/Api\/Responses\/InitSDKResponse.swift",
       "kind": "StringLiteral",
       "offset": 234,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/omerm\/Desktop\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/Api\/Responses\/InitSDKResponse.swift",
+      "filePath": "\/Users\/omerm\/Documents\/GitHub\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/Api\/Responses\/InitSDKResponse.swift",
       "kind": "IntegerLiteral",
       "offset": 262,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/omerm\/Desktop\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/Api\/Responses\/InitSDKResponse.swift",
+      "filePath": "\/Users\/omerm\/Documents\/GitHub\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/Api\/Responses\/InitSDKResponse.swift",
       "kind": "IntegerLiteral",
       "offset": 291,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/omerm\/Desktop\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/Api\/Responses\/InitSDKResponse.swift",
+      "filePath": "\/Users\/omerm\/Documents\/GitHub\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/Api\/Responses\/InitSDKResponse.swift",
       "kind": "IntegerLiteral",
       "offset": 323,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/omerm\/Desktop\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/Constants.swift",
+      "filePath": "\/Users\/omerm\/Documents\/GitHub\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/Constants.swift",
       "kind": "StringLiteral",
       "offset": 229,
       "length": 46,
       "value": "\"UIApplicationWillEnterForegroundNotification\""
     },
     {
-      "filePath": "\/Users\/omerm\/Desktop\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/Constants.swift",
+      "filePath": "\/Users\/omerm\/Documents\/GitHub\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/Constants.swift",
       "kind": "StringLiteral",
       "offset": 468,
       "length": 9,
       "value": "\"request\""
     },
     {
-      "filePath": "\/Users\/omerm\/Desktop\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/Constants.swift",
+      "filePath": "\/Users\/omerm\/Documents\/GitHub\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/Constants.swift",
       "kind": "StringLiteral",
       "offset": 503,
       "length": 9,
       "value": "\"initSDK\""
     },
     {
-      "filePath": "\/Users\/omerm\/Desktop\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/Constants.swift",
+      "filePath": "\/Users\/omerm\/Documents\/GitHub\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/Constants.swift",
       "kind": "StringLiteral",
       "offset": 551,
       "length": 22,
       "value": "\"createPaymentProcess\""
     },
     {
-      "filePath": "\/Users\/omerm\/Desktop\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/Constants.swift",
+      "filePath": "\/Users\/omerm\/Documents\/GitHub\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/Constants.swift",
       "kind": "StringLiteral",
       "offset": 611,
       "length": 21,
       "value": "\"getBitPaymentStatus\""
     },
     {
-      "filePath": "\/Users\/omerm\/Desktop\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/Constants.swift",
+      "filePath": "\/Users\/omerm\/Documents\/GitHub\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/Constants.swift",
       "kind": "StringLiteral",
       "offset": 664,
       "length": 15,
       "value": "\"setBitPayment\""
     },
     {
-      "filePath": "\/Users\/omerm\/Desktop\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/Constants.swift",
+      "filePath": "\/Users\/omerm\/Documents\/GitHub\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/Constants.swift",
       "kind": "StringLiteral",
       "offset": 714,
       "length": 18,
       "value": "\"cancelBitPayment\""
     },
     {
-      "filePath": "\/Users\/omerm\/Desktop\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/Constants.swift",
+      "filePath": "\/Users\/omerm\/Documents\/GitHub\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/Constants.swift",
       "kind": "StringLiteral",
       "offset": 772,
       "length": 23,
       "value": "\"getPaymentProcessInfo\""
     },
     {
-      "filePath": "\/Users\/omerm\/Desktop\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/Constants.swift",
+      "filePath": "\/Users\/omerm\/Documents\/GitHub\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/Constants.swift",
       "kind": "StringLiteral",
       "offset": 840,
       "length": 28,
       "value": "\"settleSuspendedTransaction\""
     },
     {
-      "filePath": "\/Users\/omerm\/Desktop\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/Constants.swift",
+      "filePath": "\/Users\/omerm\/Documents\/GitHub\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/Constants.swift",
       "kind": "StringLiteral",
       "offset": 896,
       "length": 11,
       "value": "\"doPayment\""
     },
     {
-      "filePath": "\/Users\/omerm\/Desktop\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/Constants.swift",
+      "filePath": "\/Users\/omerm\/Documents\/GitHub\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/Constants.swift",
       "kind": "StringLiteral",
       "offset": 946,
       "length": 22,
       "value": "\"cancelBitTransaction\""
     },
     {
-      "filePath": "\/Users\/omerm\/Desktop\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/Constants.swift",
+      "filePath": "\/Users\/omerm\/Documents\/GitHub\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/Constants.swift",
       "kind": "StringLiteral",
       "offset": 1027,
       "length": 6,
       "value": "\"udid\""
     },
     {
-      "filePath": "\/Users\/omerm\/Desktop\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/Constants.swift",
+      "filePath": "\/Users\/omerm\/Documents\/GitHub\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/Constants.swift",
       "kind": "StringLiteral",
       "offset": 1068,
       "length": 18,
       "value": "\"applicationToken\""
     },
     {
-      "filePath": "\/Users\/omerm\/Desktop\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/Constants.swift",
+      "filePath": "\/Users\/omerm\/Documents\/GitHub\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/Constants.swift",
       "kind": "StringLiteral",
       "offset": 1113,
       "length": 10,
       "value": "\"pageCode\""
     },
     {
-      "filePath": "\/Users\/omerm\/Desktop\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/Constants.swift",
+      "filePath": "\/Users\/omerm\/Documents\/GitHub\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/Constants.swift",
       "kind": "StringLiteral",
       "offset": 1148,
       "length": 8,
       "value": "\"userId\""
     },
     {
-      "filePath": "\/Users\/omerm\/Desktop\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/Constants.swift",
+      "filePath": "\/Users\/omerm\/Documents\/GitHub\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/Constants.swift",
       "kind": "StringLiteral",
       "offset": 1181,
       "length": 8,
       "value": "\"apiKey\""
     },
     {
-      "filePath": "\/Users\/omerm\/Desktop\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/Constants.swift",
+      "filePath": "\/Users\/omerm\/Documents\/GitHub\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/Constants.swift",
       "kind": "StringLiteral",
       "offset": 1220,
       "length": 16,
       "value": "\"bit_payment_id\""
     },
     {
-      "filePath": "\/Users\/omerm\/Desktop\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/Constants.swift",
+      "filePath": "\/Users\/omerm\/Documents\/GitHub\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/Constants.swift",
       "kind": "StringLiteral",
       "offset": 1258,
       "length": 5,
       "value": "\"sum\""
     },
     {
-      "filePath": "\/Users\/omerm\/Desktop\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/Constants.swift",
+      "filePath": "\/Users\/omerm\/Documents\/GitHub\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/Constants.swift",
       "kind": "StringLiteral",
       "offset": 1287,
       "length": 18,
       "value": "\"pageField[email]\""
     },
     {
-      "filePath": "\/Users\/omerm\/Desktop\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/Constants.swift",
+      "filePath": "\/Users\/omerm\/Documents\/GitHub\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/Constants.swift",
       "kind": "StringLiteral",
       "offset": 1332,
       "length": 21,
       "value": "\"pageField[fullName]\""
     },
     {
-      "filePath": "\/Users\/omerm\/Desktop\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/Constants.swift",
+      "filePath": "\/Users\/omerm\/Documents\/GitHub\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/Constants.swift",
       "kind": "StringLiteral",
       "offset": 1383,
       "length": 18,
       "value": "\"pageField[phone]\""
     },
     {
-      "filePath": "\/Users\/omerm\/Desktop\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/Constants.swift",
+      "filePath": "\/Users\/omerm\/Documents\/GitHub\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/Constants.swift",
       "kind": "StringLiteral",
       "offset": 1430,
       "length": 12,
       "value": "\"chargeType\""
     },
     {
-      "filePath": "\/Users\/omerm\/Desktop\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/Constants.swift",
+      "filePath": "\/Users\/omerm\/Documents\/GitHub\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/Constants.swift",
       "kind": "StringLiteral",
       "offset": 1473,
       "length": 14,
       "value": "\"templateType\""
     },
     {
-      "filePath": "\/Users\/omerm\/Desktop\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/Constants.swift",
+      "filePath": "\/Users\/omerm\/Documents\/GitHub\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/Constants.swift",
       "kind": "StringLiteral",
       "offset": 1519,
       "length": 15,
       "value": "\"transactionId\""
     },
     {
-      "filePath": "\/Users\/omerm\/Desktop\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/Constants.swift",
+      "filePath": "\/Users\/omerm\/Documents\/GitHub\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/Constants.swift",
       "kind": "StringLiteral",
       "offset": 1564,
       "length": 13,
       "value": "\"description\""
     },
     {
-      "filePath": "\/Users\/omerm\/Desktop\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/Constants.swift",
+      "filePath": "\/Users\/omerm\/Documents\/GitHub\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/Constants.swift",
       "kind": "StringLiteral",
       "offset": 1611,
       "length": 19,
       "value": "\"first_payment_sum\""
     },
     {
-      "filePath": "\/Users\/omerm\/Desktop\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/Constants.swift",
+      "filePath": "\/Users\/omerm\/Documents\/GitHub\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/Constants.swift",
       "kind": "StringLiteral",
       "offset": 1658,
       "length": 11,
       "value": "\"full_name\""
     },
     {
-      "filePath": "\/Users\/omerm\/Desktop\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/Constants.swift",
+      "filePath": "\/Users\/omerm\/Documents\/GitHub\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/Constants.swift",
       "kind": "StringLiteral",
       "offset": 1699,
       "length": 13,
       "value": "\"invoiceName\""
     },
     {
-      "filePath": "\/Users\/omerm\/Desktop\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/Constants.swift",
+      "filePath": "\/Users\/omerm\/Documents\/GitHub\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/Constants.swift",
       "kind": "StringLiteral",
       "offset": 1739,
       "length": 11,
       "value": "\"page_hash\""
     },
     {
-      "filePath": "\/Users\/omerm\/Desktop\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/Constants.swift",
+      "filePath": "\/Users\/omerm\/Documents\/GitHub\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/Constants.swift",
       "kind": "StringLiteral",
       "offset": 1779,
       "length": 13,
       "value": "\"payment_num\""
     },
     {
-      "filePath": "\/Users\/omerm\/Desktop\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/Constants.swift",
+      "filePath": "\/Users\/omerm\/Documents\/GitHub\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/Constants.swift",
       "kind": "StringLiteral",
       "offset": 1831,
       "length": 24,
       "value": "\"periodical_payment_sum\""
     },
     {
-      "filePath": "\/Users\/omerm\/Desktop\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/Constants.swift",
+      "filePath": "\/Users\/omerm\/Documents\/GitHub\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/Constants.swift",
       "kind": "StringLiteral",
       "offset": 1879,
       "length": 7,
       "value": "\"phone\""
     },
     {
-      "filePath": "\/Users\/omerm\/Desktop\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/Constants.swift",
+      "filePath": "\/Users\/omerm\/Documents\/GitHub\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/Constants.swift",
       "kind": "StringLiteral",
       "offset": 1913,
       "length": 10,
       "value": "\"platform\""
     },
     {
-      "filePath": "\/Users\/omerm\/Desktop\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/Constants.swift",
+      "filePath": "\/Users\/omerm\/Documents\/GitHub\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/Constants.swift",
       "kind": "StringLiteral",
       "offset": 1960,
       "length": 22,
       "value": "\"show_payments_select\""
     },
     {
-      "filePath": "\/Users\/omerm\/Desktop\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/Constants.swift",
+      "filePath": "\/Users\/omerm\/Documents\/GitHub\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/Constants.swift",
       "kind": "StringLiteral",
       "offset": 2018,
       "length": 21,
       "value": "\"transaction_type_id\""
     },
     {
-      "filePath": "\/Users\/omerm\/Desktop\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/Constants.swift",
+      "filePath": "\/Users\/omerm\/Documents\/GitHub\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/Constants.swift",
       "kind": "StringLiteral",
       "offset": 2064,
       "length": 9,
       "value": "\"type_id\""
     },
     {
-      "filePath": "\/Users\/omerm\/Desktop\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/Constants.swift",
+      "filePath": "\/Users\/omerm\/Documents\/GitHub\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/Constants.swift",
       "kind": "StringLiteral",
       "offset": 2101,
       "length": 11,
       "value": "\"processId\""
     },
     {
-      "filePath": "\/Users\/omerm\/Desktop\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/Constants.swift",
+      "filePath": "\/Users\/omerm\/Documents\/GitHub\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/Constants.swift",
       "kind": "StringLiteral",
       "offset": 2143,
       "length": 14,
       "value": "\"processToken\""
     },
     {
-      "filePath": "\/Users\/omerm\/Desktop\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/Constants.swift",
+      "filePath": "\/Users\/omerm\/Documents\/GitHub\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/Constants.swift",
       "kind": "StringLiteral",
       "offset": 2193,
       "length": 19,
       "value": "\"companyCommission\""
     },
     {
-      "filePath": "\/Users\/omerm\/Desktop\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/Constants.swift",
+      "filePath": "\/Users\/omerm\/Documents\/GitHub\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/Constants.swift",
       "kind": "StringLiteral",
       "offset": 2244,
       "length": 15,
       "value": "\"saveCardToken\""
     },
     {
-      "filePath": "\/Users\/omerm\/Desktop\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/Constants.swift",
+      "filePath": "\/Users\/omerm\/Documents\/GitHub\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/Constants.swift",
       "kind": "StringLiteral",
       "offset": 2317,
       "length": 7,
       "value": "\"TOKEN\""
     },
     {
-      "filePath": "\/Users\/omerm\/Desktop\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/Constants.swift",
+      "filePath": "\/Users\/omerm\/Documents\/GitHub\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/Constants.swift",
       "kind": "StringLiteral",
       "offset": 2356,
       "length": 16,
       "value": "\"inmanga_secure\""
     },
     {
-      "filePath": "\/Users\/omerm\/Desktop\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/Constants.swift",
+      "filePath": "\/Users\/omerm\/Documents\/GitHub\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/Constants.swift",
       "kind": "StringLiteral",
       "offset": 2424,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/omerm\/Desktop\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/Constants.swift",
+      "filePath": "\/Users\/omerm\/Documents\/GitHub\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/Constants.swift",
       "kind": "IntegerLiteral",
       "offset": 2485,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/omerm\/Desktop\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/Constants.swift",
+      "filePath": "\/Users\/omerm\/Documents\/GitHub\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/Constants.swift",
       "kind": "StringLiteral",
       "offset": 2510,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/omerm\/Desktop\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/Constants.swift",
+      "filePath": "\/Users\/omerm\/Documents\/GitHub\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/Constants.swift",
       "kind": "IntegerLiteral",
       "offset": 2690,
       "length": 1,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/omerm\/Desktop\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/Constants.swift",
+      "filePath": "\/Users\/omerm\/Documents\/GitHub\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/Constants.swift",
       "kind": "IntegerLiteral",
       "offset": 2693,
       "length": 6,
       "value": "2"
     },
     {
-      "filePath": "\/Users\/omerm\/Desktop\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/Constants.swift",
+      "filePath": "\/Users\/omerm\/Documents\/GitHub\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/Constants.swift",
       "kind": "IntegerLiteral",
       "offset": 2701,
       "length": 7,
       "value": "3"
     },
     {
-      "filePath": "\/Users\/omerm\/Desktop\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/Constants.swift",
+      "filePath": "\/Users\/omerm\/Documents\/GitHub\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/Constants.swift",
       "kind": "StringLiteral",
       "offset": 2729,
       "length": 5,
       "value": "\"1.0\""
     },
     {
-      "filePath": "\/Users\/omerm\/Desktop\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/Constants.swift",
+      "filePath": "\/Users\/omerm\/Documents\/GitHub\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/Constants.swift",
       "kind": "StringLiteral",
       "offset": 2753,
       "length": 33,
       "value": "\"api\/light\/iphone\/\""
     },
     {
-      "filePath": "\/Users\/omerm\/Desktop\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/Constants.swift",
+      "filePath": "\/Users\/omerm\/Documents\/GitHub\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/Constants.swift",
       "kind": "StringLiteral",
       "offset": 2784,
       "length": 1,
       "value": "\"\/\""
     },
     {
-      "filePath": "\/Users\/omerm\/Desktop\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/Constants.swift",
+      "filePath": "\/Users\/omerm\/Documents\/GitHub\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/Constants.swift",
       "kind": "StringLiteral",
       "offset": 2803,
       "length": 8,
       "value": "\"\n\t\t\""
     },
     {
-      "filePath": "\/Users\/omerm\/Desktop\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/Constants.swift",
+      "filePath": "\/Users\/omerm\/Documents\/GitHub\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/Constants.swift",
       "kind": "BooleanLiteral",
       "offset": 2921,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/omerm\/Desktop\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/Api\/Responses\/CreatePaymentProcessResponse.swift",
+      "filePath": "\/Users\/omerm\/Documents\/GitHub\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/Api\/Responses\/CreatePaymentProcessResponse.swift",
       "kind": "StringLiteral",
       "offset": 209,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/omerm\/Desktop\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/Api\/Responses\/CreatePaymentProcessResponse.swift",
+      "filePath": "\/Users\/omerm\/Documents\/GitHub\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/Api\/Responses\/CreatePaymentProcessResponse.swift",
       "kind": "StringLiteral",
       "offset": 235,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/omerm\/Desktop\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/Api\/Responses\/CreatePaymentProcessResponse.swift",
+      "filePath": "\/Users\/omerm\/Documents\/GitHub\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/Api\/Responses\/CreatePaymentProcessResponse.swift",
       "kind": "StringLiteral",
       "offset": 261,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/omerm\/Desktop\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/Api\/Responses\/CreatePaymentProcessResponse.swift",
+      "filePath": "\/Users\/omerm\/Documents\/GitHub\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/Api\/Responses\/CreatePaymentProcessResponse.swift",
       "kind": "StringLiteral",
       "offset": 336,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/omerm\/Desktop\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/Api\/Responses\/CreatePaymentProcessResponse.swift",
+      "filePath": "\/Users\/omerm\/Documents\/GitHub\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/Api\/Responses\/CreatePaymentProcessResponse.swift",
       "kind": "StringLiteral",
       "offset": 1209,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/omerm\/Desktop\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/Api\/Responses\/CreatePaymentProcessResponse.swift",
+      "filePath": "\/Users\/omerm\/Documents\/GitHub\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/Api\/Responses\/CreatePaymentProcessResponse.swift",
       "kind": "StringLiteral",
       "offset": 1238,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/omerm\/Desktop\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/Api\/Responses\/CreatePaymentProcessResponse.swift",
+      "filePath": "\/Users\/omerm\/Documents\/GitHub\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/Api\/Responses\/CreatePaymentProcessResponse.swift",
       "kind": "StringLiteral",
       "offset": 1260,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/omerm\/Desktop\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/Api\/Responses\/CreatePaymentProcessResponse.swift",
+      "filePath": "\/Users\/omerm\/Documents\/GitHub\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/Api\/Responses\/CreatePaymentProcessResponse.swift",
       "kind": "StringLiteral",
       "offset": 1285,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/omerm\/Desktop\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/Api\/Responses\/CreatePaymentProcessResponse.swift",
+      "filePath": "\/Users\/omerm\/Documents\/GitHub\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/Api\/Responses\/CreatePaymentProcessResponse.swift",
       "kind": "StringLiteral",
       "offset": 1307,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/omerm\/Desktop\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/Api\/Responses\/CreatePaymentProcessResponse.swift",
+      "filePath": "\/Users\/omerm\/Documents\/GitHub\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/Api\/Responses\/CreatePaymentProcessResponse.swift",
       "kind": "StringLiteral",
       "offset": 1341,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/omerm\/Desktop\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/Api\/Responses\/CreatePaymentProcessResponse.swift",
+      "filePath": "\/Users\/omerm\/Documents\/GitHub\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/Api\/Responses\/CreatePaymentProcessResponse.swift",
       "kind": "StringLiteral",
       "offset": 1360,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/omerm\/Desktop\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/Api\/Responses\/CreatePaymentProcessResponse.swift",
+      "filePath": "\/Users\/omerm\/Documents\/GitHub\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/Api\/Responses\/CreatePaymentProcessResponse.swift",
       "kind": "StringLiteral",
       "offset": 1382,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/omerm\/Desktop\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/Api\/Responses\/CreatePaymentProcessResponse.swift",
+      "filePath": "\/Users\/omerm\/Documents\/GitHub\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/Api\/Responses\/CreatePaymentProcessResponse.swift",
       "kind": "StringLiteral",
       "offset": 1414,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/omerm\/Desktop\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/Api\/Responses\/CreatePaymentProcessResponse.swift",
+      "filePath": "\/Users\/omerm\/Documents\/GitHub\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/Api\/Responses\/CreatePaymentProcessResponse.swift",
       "kind": "StringLiteral",
       "offset": 1433,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/omerm\/Desktop\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/Api\/Responses\/CreatePaymentProcessResponse.swift",
+      "filePath": "\/Users\/omerm\/Documents\/GitHub\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/Api\/Responses\/CreatePaymentProcessResponse.swift",
       "kind": "StringLiteral",
       "offset": 1457,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/omerm\/Desktop\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/Api\/Responses\/CreatePaymentProcessResponse.swift",
+      "filePath": "\/Users\/omerm\/Documents\/GitHub\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/Api\/Responses\/CreatePaymentProcessResponse.swift",
       "kind": "StringLiteral",
       "offset": 1475,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/omerm\/Desktop\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/Api\/Responses\/CreatePaymentProcessResponse.swift",
+      "filePath": "\/Users\/omerm\/Documents\/GitHub\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/Api\/Responses\/CreatePaymentProcessResponse.swift",
       "kind": "StringLiteral",
       "offset": 1506,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/omerm\/Desktop\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/Api\/Responses\/CreatePaymentProcessResponse.swift",
+      "filePath": "\/Users\/omerm\/Documents\/GitHub\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/Api\/Responses\/CreatePaymentProcessResponse.swift",
       "kind": "StringLiteral",
       "offset": 1526,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/omerm\/Desktop\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/Api\/Responses\/ErrorResponse.swift",
+      "filePath": "\/Users\/omerm\/Documents\/GitHub\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/Api\/Responses\/ErrorResponse.swift",
       "kind": "StringLiteral",
       "offset": 191,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/omerm\/Desktop\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/Api\/Responses\/DoPaymentResponse.swift",
+      "filePath": "\/Users\/omerm\/Documents\/GitHub\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/Api\/Responses\/DoPaymentResponse.swift",
       "kind": "StringLiteral",
       "offset": 180,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/omerm\/Desktop\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/Api\/Responses\/DoPaymentResponse.swift",
+      "filePath": "\/Users\/omerm\/Documents\/GitHub\/MeshulamSDK-iOS-Private\/MwsulamSDKExmple\/MeshulamSDK\/MeshulamSDK\/Api\/Responses\/DoPaymentResponse.swift",
       "kind": "StringLiteral",
       "offset": 206,
       "length": 2,
