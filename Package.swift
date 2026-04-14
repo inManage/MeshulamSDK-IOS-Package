@@ -1,4 +1,4 @@
-// swift-tools-version:5.7
+// swift-tools-version: 5.7
 import PackageDescription
 
 let package = Package(
@@ -9,12 +9,25 @@ let package = Package(
     products: [
         .library(
             name: "MeshulamSDK",
-            targets: ["MeshulamSDK"]
-        ),
+            targets: ["MeshulamSDKWrapper"]
+        )
+    ],
+    dependencies: [
+        .package(url: "https://github.com/Alamofire/Alamofire.git", from: "5.6.1"),
+        .package(url: "https://github.com/airbnb/lottie-ios.git", from: "3.3.0"),
     ],
     targets: [
+        .target(
+            name: "MeshulamSDKWrapper",
+            dependencies: [
+                "MeshulamSDKBinary",
+                .product(name: "Alamofire", package: "Alamofire"),
+                .product(name: "Lottie", package: "lottie-ios"),
+            ],
+            path: "Sources/MeshulamSDKWrapper"
+        ),
         .binaryTarget(
-            name: "MeshulamSDK",
+            name: "MeshulamSDKBinary",
             path: "MeshulamSDK.xcframework"
         ),
     ]
