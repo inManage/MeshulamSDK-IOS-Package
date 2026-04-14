@@ -15,7 +15,7 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "MeshulamSDK",
-            path: "MeshulamSDK/MeshulamSDK.xcframework"
+            path: "MeshulamSDK.xcframework"
         ),
     ]
 )
