@@ -2658,7 +2658,10 @@
         "name": "Lottie",
         "printedName": "Lottie",
         "declKind": "Import",
-        "moduleName": "MeshulamSDK"
+        "moduleName": "MeshulamSDK",
+        "declAttributes": [
+          "AccessControl"
+        ]
       },
       {
         "kind": "Import",
@@ -4002,7 +4005,10 @@
         "name": "Alamofire",
         "printedName": "Alamofire",
         "declKind": "Import",
-        "moduleName": "MeshulamSDK"
+        "moduleName": "MeshulamSDK",
+        "declAttributes": [
+          "AccessControl"
+        ]
       },
       {
         "kind": "Import",
@@ -8236,84 +8242,84 @@
     {
       "filePath": "\/Users\/omerm\/Desktop\/MeshulamSDK\/MeshulamSDK\/Managers\/MeshulamNetworkManager.swift",
       "kind": "StringLiteral",
-      "offset": 669,
+      "offset": 678,
       "length": 33,
       "value": "\"https:\/\/sandbox.meshulam.co.il\/\""
     },
     {
       "filePath": "\/Users\/omerm\/Desktop\/MeshulamSDK\/MeshulamSDK\/Managers\/MeshulamNetworkManager.swift",
       "kind": "StringLiteral",
-      "offset": 705,
+      "offset": 714,
       "length": 32,
       "value": "\"https:\/\/secure.meshulam.co.il\/\""
     },
     {
       "filePath": "\/Users\/omerm\/Desktop\/MeshulamSDK\/MeshulamSDK\/Managers\/MeshulamNetworkManager.swift",
       "kind": "StringLiteral",
-      "offset": 794,
+      "offset": 803,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/omerm\/Desktop\/MeshulamSDK\/MeshulamSDK\/Managers\/MeshulamNetworkManager.swift",
       "kind": "IntegerLiteral",
-      "offset": 841,
+      "offset": 850,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/omerm\/Desktop\/MeshulamSDK\/MeshulamSDK\/Managers\/MeshulamNetworkManager.swift",
       "kind": "IntegerLiteral",
-      "offset": 890,
+      "offset": 899,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/omerm\/Desktop\/MeshulamSDK\/MeshulamSDK\/Managers\/MeshulamNetworkManager.swift",
       "kind": "IntegerLiteral",
-      "offset": 942,
+      "offset": 951,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/omerm\/Desktop\/MeshulamSDK\/MeshulamSDK\/Managers\/MeshulamNetworkManager.swift",
       "kind": "BooleanLiteral",
-      "offset": 1036,
+      "offset": 1045,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/omerm\/Desktop\/MeshulamSDK\/MeshulamSDK\/Managers\/MeshulamNetworkManager.swift",
       "kind": "StringLiteral",
-      "offset": 8256,
+      "offset": 8265,
       "length": 7,
       "value": "\":#[]@\""
     },
     {
       "filePath": "\/Users\/omerm\/Desktop\/MeshulamSDK\/MeshulamSDK\/Managers\/MeshulamNetworkManager.swift",
       "kind": "StringLiteral",
-      "offset": 8361,
+      "offset": 8370,
       "length": 13,
       "value": "\"!$&'()*+,;=\""
     },
     {
       "filePath": "\/Users\/omerm\/Desktop\/MeshulamSDK\/MeshulamSDK\/Managers\/MeshulamNetworkManager.swift",
       "kind": "StringLiteral",
-      "offset": 8464,
+      "offset": 8473,
       "length": 54,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/omerm\/Desktop\/MeshulamSDK\/MeshulamSDK\/Managers\/MeshulamNetworkManager.swift",
       "kind": "StringLiteral",
-      "offset": 8493,
+      "offset": 8502,
       "length": 1,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/omerm\/Desktop\/MeshulamSDK\/MeshulamSDK\/Managers\/MeshulamNetworkManager.swift",
       "kind": "StringLiteral",
-      "offset": 8517,
+      "offset": 8526,
       "length": 2,
       "value": "\"\""
     },

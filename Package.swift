@@ -9,26 +9,13 @@ let package = Package(
     products: [
         .library(
             name: "MeshulamSDK",
-            targets: ["MeshulamSDKWrapper"]
+            targets: ["MeshulamSDK"]
         )
     ],
-    dependencies: [
-        .package(url: "https://github.com/Alamofire/Alamofire.git", from: "5.6.1"),
-        .package(url: "https://github.com/airbnb/lottie-ios.git", "3.3.0"..<"3.5.0"),
-    ],
     targets: [
-        .target(
-            name: "MeshulamSDKWrapper",
-            dependencies: [
-                "MeshulamSDKBinary",
-                .product(name: "Alamofire", package: "Alamofire"),
-                .product(name: "Lottie", package: "lottie-ios"),
-            ],
-            path: "Sources/MeshulamSDKWrapper"
-        ),
         .binaryTarget(
-            name: "MeshulamSDKBinary",
+            name: "MeshulamSDK",
             path: "MeshulamSDK.xcframework"
-        ),
+        )
     ]
 )
