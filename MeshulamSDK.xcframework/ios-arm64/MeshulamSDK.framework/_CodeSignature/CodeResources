@@ -34,7 +34,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		PXAjQQfzhGnH03OTf/ktL5xeTWY=
+		a4f7rD/6RWeyozEjnC2M/yfs9qg=
 		</data>
 		<key>MeshulamLoader.gif</key>
 		<data>
@@ -50,7 +50,7 @@
 		</data>
 		<key>MeshulamMain.storyboardc/vRf-mA-fx9-view-Qn2-dw-2HA.nib</key>
 		<data>
-		tTF2sZZBGXu7IlO91yl33IoMpcQ=
+		sHlMJqxYi6I8TBF5+/wqx4wl144=
 		</data>
 		<key>MeshulamPopup.storyboardc/Info.plist</key>
 		<data>
@@ -62,11 +62,11 @@
 		</data>
 		<key>MeshulamPopup.storyboardc/N0f-o5-aju-view-BFh-wS-jCE.nib</key>
 		<data>
-		1yrCjCK3CiCEaBlYiC/R0FnDQ9k=
+		pUJ/XS753pdDlgKng6zT/mpC5i0=
 		</data>
 		<key>Modules/MeshulamSDK.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		zRRk2z54tElESH6aPsMkXNYHjys=
+		AaoQWZ1NUaMqoi3VrRdsH8EQ67A=
 		</data>
 		<key>Modules/MeshulamSDK.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
@@ -82,7 +82,7 @@
 		</data>
 		<key>Modules/MeshulamSDK.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		2fU33rpBF6pQLOnCFTVKaWari5g=
+		Mf7vmg68ZCrwWbAsQNLD+KyfAu8=
 		</data>
 		<key>OFL.txt</key>
 		<data>
@@ -96,6 +96,14 @@
 		<data>
 		SrgQ6CwrYYPNq0pzt/z1vD3cU+w=
 		</data>
+		<key>bitloader.json</key>
+		<data>
+		hKfJFN3/PBuO18asM9u3eRUs1Hs=
+		</data>
+		<key>bluebgbit.png</key>
+		<data>
+		3F6pIlmXpWWJKVYOm5vZRK7gtY8=
+		</data>
 		<key>button2.png</key>
 		<data>
 		zH4rWTBOMDQTk3/P4bHuWftnYL0=
@@ -107,6 +115,42 @@
 		<key>loader.json</key>
 		<data>
 		DWO6mvWU8Xth5QxNv1LyhS7dBKw=
+		</data>
+		<key>newBitLogo.png</key>
+		<data>
+		B4owsSypUGexz+5Lhbv99SYQYZg=
+		</data>
+		<key>newCloseBtn.png</key>
+		<data>
+		2AOyLSAjOav+SS8mk6KfbIil408=
+		</data>
+		<key>ploni-aaa-300.otf</key>
+		<data>
+		Rr89ISDeaGhHwOr+cK1KJKCh8vY=
+		</data>
+		<key>ploni-aaa-400.otf</key>
+		<data>
+		nqMwSKi9bPlqvcXlRWEA+E2aJYA=
+		</data>
+		<key>ploni-aaa-500.otf</key>
+		<data>
+		V8XZxoRagExmLZ9wVC/crZFk70g=
+		</data>
+		<key>ploni-aaa-600.otf</key>
+		<data>
+		x9vkfN4680I8UzczkUkZLmWjF5g=
+		</data>
+		<key>ploni-aaa-700.otf</key>
+		<data>
+		N1t2M51WzHQ3JvO6lTJd9fcnGlQ=
+		</data>
+		<key>ploni-aaa-800.otf</key>
+		<data>
+		4/mJow81x3owDlIIGd9ybrMMDzM=
+		</data>
+		<key>ploni-aaa-900.otf</key>
+		<data>
+		WCx1+Sr2caPRCvAT0KK+whXfg8s=
 		</data>
 		<key>x.png</key>
 		<data>
@@ -193,7 +237,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			2mdezZFOeitrXVZgUgCJfOsSDUI9rKFoItIAYDgmMQw=
+			6bIy2xJsaadDHlfS//ALxqEziR8dicar7lKysGYapAU=
 			</data>
 		</dict>
 		<key>MeshulamPopup.storyboardc/Info.plist</key>
@@ -214,14 +258,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			kOzAjXBw78iXdavQeI9AOBw499C2L3Vm2Q6s/tZiMEQ=
+			X6xZNhWxnqXf0Wjlwv4h4JJhnsAUDWCkCSKcs1OkF0g=
 			</data>
 		</dict>
 		<key>Modules/MeshulamSDK.swiftmodule/arm64-apple-ios.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			kaxQCFyOuLH+wj85Qww2SxPTUlLvqdN299crUMINLuQ=
+			n9VaOahBcGDoqk4tRJxME1k3y7sBThtF2/6VP7Y/HNE=
 			</data>
 		</dict>
 		<key>Modules/MeshulamSDK.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
@@ -249,7 +293,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			ybpNZQ6r+RJGGzP3odjdq+X/AExX45KV6ciWB4zQB0A=
+			bTuSb3Jbr8mPmwoXVDEllMS8JzGKSpE/JzUoLhYnygE=
 			</data>
 		</dict>
 		<key>OFL.txt</key>
@@ -273,6 +317,20 @@
 			Mgb2m2z8MPwyt2LoGpsHEtYoRaueVgc0opcp22KP6tM=
 			</data>
 		</dict>
+		<key>bitloader.json</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			lfcVByMIk+CaCWUQ0qe2rRRv+IWy4/OvmxPx14YX4N0=
+			</data>
+		</dict>
+		<key>bluebgbit.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			/qibYGwGQZGBfi4f92f2tvHPpjZklbbNFuqD9/clwDo=
+			</data>
+		</dict>
 		<key>button2.png</key>
 		<dict>
 			<key>hash2</key>
@@ -292,6 +350,69 @@
 			<key>hash2</key>
 			<data>
 			EEJ3UTM0dRd8IyZ5ncOEBWCILkIVvrdPPXzqiFHVFqo=
+			</data>
+		</dict>
+		<key>newBitLogo.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			AVXdjBq/egEDjnU7r42K5o2cD2Nm2i110gmb66X71nA=
+			</data>
+		</dict>
+		<key>newCloseBtn.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			hrwpT5W+M6F76PqiLv2GfEE0srdOKlDYt/RzKNZK17E=
+			</data>
+		</dict>
+		<key>ploni-aaa-300.otf</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			enRNMz1Et44F1aIuWoEbXj2c0sshwTwaHQSXJPBGsyo=
+			</data>
+		</dict>
+		<key>ploni-aaa-400.otf</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			vfyhSrDQ7b3Q/9yASLZeWwzUMK1t2cDu9cwYJwtLa/k=
+			</data>
+		</dict>
+		<key>ploni-aaa-500.otf</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			vqxPbKxzat6ArMRo3DHamPLO4cgftvlV+5erq/LcPYs=
+			</data>
+		</dict>
+		<key>ploni-aaa-600.otf</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			hG/N24TpyBO8kW9ML/eAAIedaZKq6Aw1Pbc5jIrQSrw=
+			</data>
+		</dict>
+		<key>ploni-aaa-700.otf</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			/XQNmTpApbWRDVqrHymeQmS+H8YWeT9lX/VLLr/z2dw=
+			</data>
+		</dict>
+		<key>ploni-aaa-800.otf</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			HjcUXDRx3KO8imNswIg4Lz3e2Xq5xCy8Eiz4yXy/ORc=
+			</data>
+		</dict>
+		<key>ploni-aaa-900.otf</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Lkwm2LAPoTI4kxj5lRSFuIIFGY6IyIG+CuqgTdqiRf0=
 			</data>
 		</dict>
 		<key>x.png</key>
