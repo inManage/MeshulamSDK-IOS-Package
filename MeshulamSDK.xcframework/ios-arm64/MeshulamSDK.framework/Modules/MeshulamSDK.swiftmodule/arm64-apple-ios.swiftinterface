@@ -124,10 +124,11 @@ public struct SubjectType {
   public let processToken: Swift.String?
   public let ProcessInfoResponse: [Swift.String : Any]?
   public let error: Swift.String?
+  public let paymentProcessInfo: Swift.String?
 }
 @objc @objcMembers public class MeshulamPaymentFields : ObjectiveC.NSObject, Swift.Codable {
   #if compiler(>=5.3) && $NonescapableTypes
-  public init(pageCode: Swift.String, apiKey: Swift.String, userId: Swift.String, fullName: Swift.String, phone: Swift.String, sum: Swift.String, email: Swift.String?, description: Swift.String?, saveCardToken: Swift.Bool? = nil, companyCommission: Swift.Double? = nil)
+  public init(pageCode: Swift.String, apiKey: Swift.String, userId: Swift.String, fullName: Swift.String, phone: Swift.String, sum: Swift.String, email: Swift.String?, description: Swift.String?, saveCardToken: Swift.Bool? = nil, companyCommission: Swift.Double? = nil, cFields: [Swift.String]? = nil, notifyUrl: Swift.String? = nil)
   #endif
   @objc deinit
   public func encode(to encoder: any Swift.Encoder) throws
@@ -247,7 +248,7 @@ extension MeshulamSDK.MeshulamStartupManager : MeshulamSDK.MeshulamRequestFinish
   @objc func createPaymentProccesSuccess(_ processId: Swift.String, _ processToken: Swift.String)
   @objc func getPaymentProcessInfoSuccess(response: [Swift.String : Any])
   @objc func onFailure(_ error: Swift.String)
-  @objc func onCancel()
+  @objc func onCancel(paymentProcessInfo: Swift.String)
   @objc func didCloseMeshulamSDK()
 }
 public protocol MeshulamRequestFinishedProtocol : AnyObject {

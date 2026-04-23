@@ -3653,6 +3653,66 @@
                 "accessorKind": "get"
               }
             ]
+          },
+          {
+            "kind": "Var",
+            "name": "paymentProcessInfo",
+            "printedName": "paymentProcessInfo",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:11MeshulamSDK11SubjectTypeV18paymentProcessInfoSSSgvp",
+            "mangledName": "$s11MeshulamSDK11SubjectTypeV18paymentProcessInfoSSSgvp",
+            "moduleName": "MeshulamSDK",
+            "declAttributes": [
+              "HasStorage",
+              "AccessControl"
+            ],
+            "isLet": true,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "Swift.String?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "String",
+                        "printedName": "Swift.String",
+                        "usr": "s:SS"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:11MeshulamSDK11SubjectTypeV18paymentProcessInfoSSSgvg",
+                "mangledName": "$s11MeshulamSDK11SubjectTypeV18paymentProcessInfoSSSgvg",
+                "moduleName": "MeshulamSDK",
+                "implicit": true,
+                "accessorKind": "get"
+              }
+            ]
           }
         ],
         "declKind": "Struct",
@@ -3697,7 +3757,7 @@
           {
             "kind": "Constructor",
             "name": "init",
-            "printedName": "init(pageCode:apiKey:userId:fullName:phone:sum:email:description:saveCardToken:companyCommission:)",
+            "printedName": "init(pageCode:apiKey:userId:fullName:phone:sum:email:description:saveCardToken:companyCommission:cFields:notifyUrl:)",
             "children": [
               {
                 "kind": "TypeNominal",
@@ -3798,11 +3858,49 @@
                 ],
                 "hasDefaultArg": true,
                 "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "[Swift.String]?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Array",
+                    "printedName": "[Swift.String]",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "String",
+                        "printedName": "Swift.String",
+                        "usr": "s:SS"
+                      }
+                    ],
+                    "usr": "s:Sa"
+                  }
+                ],
+                "hasDefaultArg": true,
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "hasDefaultArg": true,
+                "usr": "s:Sq"
               }
             ],
             "declKind": "Constructor",
-            "usr": "s:11MeshulamSDK0A13PaymentFieldsC8pageCode6apiKey6userId8fullName5phone3sum5email11description13saveCardToken17companyCommissionACSS_S6SSgANSbSgSdSgtcfc",
-            "mangledName": "$s11MeshulamSDK0A13PaymentFieldsC8pageCode6apiKey6userId8fullName5phone3sum5email11description13saveCardToken17companyCommissionACSS_S6SSgANSbSgSdSgtcfc",
+            "usr": "s:11MeshulamSDK0A13PaymentFieldsC8pageCode6apiKey6userId8fullName5phone3sum5email11description13saveCardToken17companyCommission01cD09notifyUrlACSS_S6SSgAPSbSgSdSgSaySSGSgAPtcfc",
+            "mangledName": "$s11MeshulamSDK0A13PaymentFieldsC8pageCode6apiKey6userId8fullName5phone3sum5email11description13saveCardToken17companyCommission01cD09notifyUrlACSS_S6SSgAPSbSgSdSgSaySSGSgAPtcfc",
             "moduleName": "MeshulamSDK",
             "declAttributes": [
               "AccessControl"
@@ -6528,17 +6626,23 @@
           {
             "kind": "Function",
             "name": "onCancel",
-            "printedName": "onCancel()",
+            "printedName": "onCancel(paymentProcessInfo:)",
             "children": [
               {
                 "kind": "TypeNominal",
                 "name": "Void",
                 "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
               }
             ],
             "declKind": "Func",
-            "usr": "c:@M@MeshulamSDK@objc(pl)MeshulamDelegate(im)onCancel",
-            "mangledName": "$s11MeshulamSDK0A8DelegateP8onCancelyyF",
+            "usr": "c:@M@MeshulamSDK@objc(pl)MeshulamDelegate(im)onCancelWithPaymentProcessInfo:",
+            "mangledName": "$s11MeshulamSDK0A8DelegateP8onCancel18paymentProcessInfoySS_tF",
             "moduleName": "MeshulamSDK",
             "genericSig": "<τ_0_0 where τ_0_0 : MeshulamSDK.MeshulamDelegate>",
             "sugared_genericSig": "<Self where Self : MeshulamSDK.MeshulamDelegate>",
@@ -7743,6 +7847,13 @@
       "value": "0"
     },
     {
+      "filePath": "\/Users\/omerm\/Documents\/GitHub\/MeshulamSDK-iOS-Source\/MeshulamSDK\/Api\/Responses\/BaseInnerResponse.swift",
+      "kind": "StringLiteral",
+      "offset": 221,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
       "filePath": "\/Users\/omerm\/Documents\/GitHub\/MeshulamSDK-iOS-Source\/MeshulamSDK\/Api\/Responses\/CreatePaymentProcessResponse.swift",
       "kind": "StringLiteral",
       "offset": 209,
@@ -7941,23 +8052,37 @@
     {
       "filePath": "\/Users\/omerm\/Documents\/GitHub\/MeshulamSDK-iOS-Source\/MeshulamSDK\/Api\/Responses\/MeshulamBaseServerResponse.swift",
       "kind": "StringLiteral",
-      "offset": 434,
+      "offset": 446,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/omerm\/Documents\/GitHub\/MeshulamSDK-iOS-Source\/MeshulamSDK\/Api\/Responses\/MeshulamBaseServerResponse.swift",
+      "kind": "StringLiteral",
+      "offset": 478,
       "length": 8,
       "value": "\"status\""
     },
     {
       "filePath": "\/Users\/omerm\/Documents\/GitHub\/MeshulamSDK-iOS-Source\/MeshulamSDK\/Api\/Responses\/MeshulamBaseServerResponse.swift",
       "kind": "StringLiteral",
-      "offset": 467,
+      "offset": 511,
       "length": 5,
       "value": "\"err\""
     },
     {
       "filePath": "\/Users\/omerm\/Documents\/GitHub\/MeshulamSDK-iOS-Source\/MeshulamSDK\/Api\/Responses\/MeshulamBaseServerResponse.swift",
       "kind": "StringLiteral",
-      "offset": 497,
+      "offset": 541,
       "length": 6,
       "value": "\"data\""
+    },
+    {
+      "filePath": "\/Users\/omerm\/Documents\/GitHub\/MeshulamSDK-iOS-Source\/MeshulamSDK\/Api\/Responses\/MeshulamBaseServerResponse.swift",
+      "kind": "StringLiteral",
+      "offset": 586,
+      "length": 31,
+      "value": "\"getPaymentProcessResponseInfo\""
     },
     {
       "filePath": "\/Users\/omerm\/Documents\/GitHub\/MeshulamSDK-iOS-Source\/MeshulamSDK\/Api\/Responses\/SetBitPaymentResponse.swift",
@@ -8172,72 +8297,86 @@
     {
       "filePath": "\/Users\/omerm\/Documents\/GitHub\/MeshulamSDK-iOS-Source\/MeshulamSDK\/IOS_13Support\/MeshulamPaymentFields.swift",
       "kind": "StringLiteral",
-      "offset": 1086,
+      "offset": 1272,
       "length": 10,
       "value": "\"pageCode\""
     },
     {
       "filePath": "\/Users\/omerm\/Documents\/GitHub\/MeshulamSDK-iOS-Source\/MeshulamSDK\/IOS_13Support\/MeshulamPaymentFields.swift",
       "kind": "StringLiteral",
-      "offset": 1119,
+      "offset": 1305,
       "length": 8,
       "value": "\"apiKey\""
     },
     {
       "filePath": "\/Users\/omerm\/Documents\/GitHub\/MeshulamSDK-iOS-Source\/MeshulamSDK\/IOS_13Support\/MeshulamPaymentFields.swift",
       "kind": "StringLiteral",
-      "offset": 1150,
+      "offset": 1336,
       "length": 8,
       "value": "\"userId\""
     },
     {
       "filePath": "\/Users\/omerm\/Documents\/GitHub\/MeshulamSDK-iOS-Source\/MeshulamSDK\/IOS_13Support\/MeshulamPaymentFields.swift",
       "kind": "StringLiteral",
-      "offset": 1183,
+      "offset": 1369,
       "length": 21,
       "value": "\"pageField[fullName]\""
     },
     {
       "filePath": "\/Users\/omerm\/Documents\/GitHub\/MeshulamSDK-iOS-Source\/MeshulamSDK\/IOS_13Support\/MeshulamPaymentFields.swift",
       "kind": "StringLiteral",
-      "offset": 1226,
+      "offset": 1412,
       "length": 18,
       "value": "\"pageField[phone]\""
     },
     {
       "filePath": "\/Users\/omerm\/Documents\/GitHub\/MeshulamSDK-iOS-Source\/MeshulamSDK\/IOS_13Support\/MeshulamPaymentFields.swift",
       "kind": "StringLiteral",
-      "offset": 1264,
+      "offset": 1450,
       "length": 5,
       "value": "\"sum\""
     },
     {
       "filePath": "\/Users\/omerm\/Documents\/GitHub\/MeshulamSDK-iOS-Source\/MeshulamSDK\/IOS_13Support\/MeshulamPaymentFields.swift",
       "kind": "StringLiteral",
-      "offset": 1291,
+      "offset": 1477,
       "length": 18,
       "value": "\"pageField[email]\""
     },
     {
       "filePath": "\/Users\/omerm\/Documents\/GitHub\/MeshulamSDK-iOS-Source\/MeshulamSDK\/IOS_13Support\/MeshulamPaymentFields.swift",
       "kind": "StringLiteral",
-      "offset": 1340,
+      "offset": 1526,
       "length": 13,
       "value": "\"description\""
     },
     {
       "filePath": "\/Users\/omerm\/Documents\/GitHub\/MeshulamSDK-iOS-Source\/MeshulamSDK\/IOS_13Support\/MeshulamPaymentFields.swift",
       "kind": "StringLiteral",
-      "offset": 1383,
+      "offset": 1569,
       "length": 15,
       "value": "\"saveCardToken\""
     },
     {
       "filePath": "\/Users\/omerm\/Documents\/GitHub\/MeshulamSDK-iOS-Source\/MeshulamSDK\/IOS_13Support\/MeshulamPaymentFields.swift",
       "kind": "StringLiteral",
-      "offset": 1432,
+      "offset": 1618,
       "length": 19,
       "value": "\"companyCommission\""
+    },
+    {
+      "filePath": "\/Users\/omerm\/Documents\/GitHub\/MeshulamSDK-iOS-Source\/MeshulamSDK\/IOS_13Support\/MeshulamPaymentFields.swift",
+      "kind": "StringLiteral",
+      "offset": 1670,
+      "length": 9,
+      "value": "\"cFields\""
+    },
+    {
+      "filePath": "\/Users\/omerm\/Documents\/GitHub\/MeshulamSDK-iOS-Source\/MeshulamSDK\/IOS_13Support\/MeshulamPaymentFields.swift",
+      "kind": "StringLiteral",
+      "offset": 1705,
+      "length": 11,
+      "value": "\"notifyUrl\""
     },
     {
       "filePath": "\/Users\/omerm\/Documents\/GitHub\/MeshulamSDK-iOS-Source\/MeshulamSDK\/Managers\/MeshulamNetworkManager.swift",
@@ -8326,14 +8465,14 @@
     {
       "filePath": "\/Users\/omerm\/Documents\/GitHub\/MeshulamSDK-iOS-Source\/MeshulamSDK\/Managers\/MeshulamPaymentManager.swift",
       "kind": "BooleanLiteral",
-      "offset": 837,
+      "offset": 863,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/omerm\/Documents\/GitHub\/MeshulamSDK-iOS-Source\/MeshulamSDK\/Managers\/MeshulamPaymentManager.swift",
       "kind": "BooleanLiteral",
-      "offset": 870,
+      "offset": 896,
       "length": 5,
       "value": "false"
     },

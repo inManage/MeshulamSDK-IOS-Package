@@ -50,7 +50,7 @@
 		</data>
 		<key>MeshulamMain.storyboardc/vRf-mA-fx9-view-Qn2-dw-2HA.nib</key>
 		<data>
-		sHlMJqxYi6I8TBF5+/wqx4wl144=
+		dF+NjuPHlE3bO+i/VWvcqhaB46M=
 		</data>
 		<key>MeshulamPopup.storyboardc/Info.plist</key>
 		<data>
@@ -66,11 +66,11 @@
 		</data>
 		<key>Modules/MeshulamSDK.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		AaoQWZ1NUaMqoi3VrRdsH8EQ67A=
+		vJt+5RoogvzQzTnltf6JQ+ABNJ8=
 		</data>
 		<key>Modules/MeshulamSDK.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
-		9SinK/5EsEcx1yka2ovMuKnTQII=
+		tixWDZAleXrDkH3hU/Tzk4rlTeM=
 		</data>
 		<key>Modules/MeshulamSDK.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
@@ -78,11 +78,11 @@
 		</data>
 		<key>Modules/MeshulamSDK.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		9SinK/5EsEcx1yka2ovMuKnTQII=
+		tixWDZAleXrDkH3hU/Tzk4rlTeM=
 		</data>
 		<key>Modules/MeshulamSDK.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		Mf7vmg68ZCrwWbAsQNLD+KyfAu8=
+		RsZOqZvxAjMcPGYlGt2NyoRl07Q=
 		</data>
 		<key>OFL.txt</key>
 		<data>
@@ -118,7 +118,7 @@
 		</data>
 		<key>newBitLogo.png</key>
 		<data>
-		B4owsSypUGexz+5Lhbv99SYQYZg=
+		h1RANkEcOvA8hqO8k5D2quOdrcs=
 		</data>
 		<key>newCloseBtn.png</key>
 		<data>
@@ -237,7 +237,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			6bIy2xJsaadDHlfS//ALxqEziR8dicar7lKysGYapAU=
+			TnDlEw6sNVuimSredzSmxKkd/I+AnEfHdzFKuXMEPHQ=
 			</data>
 		</dict>
 		<key>MeshulamPopup.storyboardc/Info.plist</key>
@@ -265,14 +265,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			n9VaOahBcGDoqk4tRJxME1k3y7sBThtF2/6VP7Y/HNE=
+			GjQghmI8Woe19+CSeMmKhDGgBpXL92yMSkjT67UlXDk=
 			</data>
 		</dict>
 		<key>Modules/MeshulamSDK.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			WpWoN9ptSASV4ERXJM25l5P+N7sYbpLTn0YFRaMKZEs=
+			a2ifTr/m6ZA7zIk9Hvv0cSYPjDAErdsS7Nqrykjim2o=
 			</data>
 		</dict>
 		<key>Modules/MeshulamSDK.swiftmodule/arm64-apple-ios.swiftdoc</key>
@@ -286,14 +286,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			WpWoN9ptSASV4ERXJM25l5P+N7sYbpLTn0YFRaMKZEs=
+			a2ifTr/m6ZA7zIk9Hvv0cSYPjDAErdsS7Nqrykjim2o=
 			</data>
 		</dict>
 		<key>Modules/MeshulamSDK.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			bTuSb3Jbr8mPmwoXVDEllMS8JzGKSpE/JzUoLhYnygE=
+			465yw4lssjFC+laXQ58EcF61N8ZfQ2m78wVebVmQlDE=
 			</data>
 		</dict>
 		<key>OFL.txt</key>
@@ -356,7 +356,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			AVXdjBq/egEDjnU7r42K5o2cD2Nm2i110gmb66X71nA=
+			ALeXvfnHMbAw+pf3dUHCZseGFXRC0cTkGdEHO2ZXWMI=
 			</data>
 		</dict>
 		<key>newCloseBtn.png</key>
