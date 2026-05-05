@@ -80,7 +80,7 @@ import _SwiftConcurrencyShims
   public func setMeshulamPublisher(subscriber: Combine.PassthroughSubject<MeshulamSDK.SubjectType, Swift.Never>?)
   #endif
   #if compiler(>=5.3) && $NonescapableTypes
-  @objc public func createPaymentProcess(pageCode: Swift.String, apiKey: Swift.String, userId: Swift.String, fullName: Swift.String, phoneNumber: Swift.String, sum: Swift.String, email: Swift.String? = nil, description: Swift.String? = nil, saveCardToken: Swift.String? = nil, companyCommission: Swift.String? = nil, delegate: (any MeshulamSDK.MeshulamDelegate)? = nil)
+  @objc public func createPaymentProcess(pageCode: Swift.String, apiKey: Swift.String, userId: Swift.String, fullName: Swift.String, phoneNumber: Swift.String, sum: Swift.String, email: Swift.String? = nil, description: Swift.String? = nil, saveCardToken: Swift.String? = nil, companyCommission: Swift.String? = nil, delegate: (any MeshulamSDK.MeshulamDelegate)? = nil, cFields: [Swift.String]? = nil, notifyUrl: Swift.String? = nil)
   #endif
   #if compiler(>=5.3) && $NonescapableTypes
   @objc public func createPaymentProcess(paymentFeilds: MeshulamSDK.MeshulamPaymentFields, delegate: (any MeshulamSDK.MeshulamDelegate)? = nil)
