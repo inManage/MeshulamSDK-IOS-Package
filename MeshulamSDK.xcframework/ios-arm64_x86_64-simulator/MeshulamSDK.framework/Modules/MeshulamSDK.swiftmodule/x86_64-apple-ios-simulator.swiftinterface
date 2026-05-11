@@ -71,7 +71,10 @@ import _SwiftConcurrencyShims
 }
 @_inheritsConvenienceInitializers @_hasMissingDesignatedInitializers @objc open class Meshulam : ObjectiveC.NSObject {
   @objc weak open var delegate: (any MeshulamSDK.MeshulamDelegate)?
-  @objc open var isDebugMode: Swift.Bool
+  @objc open var isDebugMode: Swift.Bool {
+    @objc get
+    @objc set
+  }
   @objc open class func shared() -> MeshulamSDK.Meshulam
   open class func destroy()
   @objc public func meshulamStart()
