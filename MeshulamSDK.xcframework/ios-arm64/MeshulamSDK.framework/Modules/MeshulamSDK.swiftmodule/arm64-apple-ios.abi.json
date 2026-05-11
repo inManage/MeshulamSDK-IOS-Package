@@ -4676,6 +4676,26 @@
           },
           {
             "kind": "Function",
+            "name": "resetBaseURL",
+            "printedName": "resetBaseURL()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:11MeshulamSDK0A14NetworkManagerC12resetBaseURLyyF",
+            "mangledName": "$s11MeshulamSDK0A14NetworkManagerC12resetBaseURLyyF",
+            "moduleName": "MeshulamSDK",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
             "name": "fillWithInitSDKResponse",
             "printedName": "fillWithInitSDKResponse(_:)",
             "children": [
@@ -8289,8 +8309,19 @@
     },
     {
       "filePath": "\/Users\/omerm\/Documents\/GitHub\/MeshulamSDK-iOS-Source\/MeshulamSDK\/Api\/Meshulam.swift",
+      "kind": "StringLiteral",
+      "offset": 1425,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/omerm\/Documents\/GitHub\/MeshulamSDK-iOS-Source\/MeshulamSDK\/Api\/Meshulam.swift",
       "kind": "Dictionary",
+<<<<<<< Updated upstream
       "offset": 5999,
+=======
+      "offset": 6326,
+>>>>>>> Stashed changes
       "length": 3,
       "value": "[]"
     },
@@ -8430,35 +8461,35 @@
     {
       "filePath": "\/Users\/omerm\/Documents\/GitHub\/MeshulamSDK-iOS-Source\/MeshulamSDK\/Managers\/MeshulamNetworkManager.swift",
       "kind": "StringLiteral",
-      "offset": 8265,
+      "offset": 8428,
       "length": 7,
       "value": "\":#[]@\""
     },
     {
       "filePath": "\/Users\/omerm\/Documents\/GitHub\/MeshulamSDK-iOS-Source\/MeshulamSDK\/Managers\/MeshulamNetworkManager.swift",
       "kind": "StringLiteral",
-      "offset": 8370,
+      "offset": 8533,
       "length": 13,
       "value": "\"!$&'()*+,;=\""
     },
     {
       "filePath": "\/Users\/omerm\/Documents\/GitHub\/MeshulamSDK-iOS-Source\/MeshulamSDK\/Managers\/MeshulamNetworkManager.swift",
       "kind": "StringLiteral",
-      "offset": 8473,
+      "offset": 8636,
       "length": 54,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/omerm\/Documents\/GitHub\/MeshulamSDK-iOS-Source\/MeshulamSDK\/Managers\/MeshulamNetworkManager.swift",
       "kind": "StringLiteral",
-      "offset": 8502,
+      "offset": 8665,
       "length": 1,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/omerm\/Documents\/GitHub\/MeshulamSDK-iOS-Source\/MeshulamSDK\/Managers\/MeshulamNetworkManager.swift",
       "kind": "StringLiteral",
-      "offset": 8526,
+      "offset": 8689,
       "length": 2,
       "value": "\"\""
     },

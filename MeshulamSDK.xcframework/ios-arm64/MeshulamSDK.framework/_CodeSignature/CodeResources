@@ -34,7 +34,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		a4f7rD/6RWeyozEjnC2M/yfs9qg=
+		D1m4ArhK+SEAnShkbk81a7OYXMw=
 		</data>
 		<key>MeshulamLoader.gif</key>
 		<data>
@@ -66,11 +66,19 @@
 		</data>
 		<key>Modules/MeshulamSDK.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
+<<<<<<< Updated upstream
 		vJt+5RoogvzQzTnltf6JQ+ABNJ8=
 		</data>
 		<key>Modules/MeshulamSDK.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
 		tixWDZAleXrDkH3hU/Tzk4rlTeM=
+=======
+		x2h2gSmKwox2XI1PeHlQjBjJP+I=
+		</data>
+		<key>Modules/MeshulamSDK.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
+		<data>
+		Kb4T8ckk/Z5z1PR8CborWErRZRQ=
+>>>>>>> Stashed changes
 		</data>
 		<key>Modules/MeshulamSDK.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
@@ -78,11 +86,19 @@
 		</data>
 		<key>Modules/MeshulamSDK.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
+<<<<<<< Updated upstream
 		tixWDZAleXrDkH3hU/Tzk4rlTeM=
 		</data>
 		<key>Modules/MeshulamSDK.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
 		RsZOqZvxAjMcPGYlGt2NyoRl07Q=
+=======
+		Kb4T8ckk/Z5z1PR8CborWErRZRQ=
+		</data>
+		<key>Modules/MeshulamSDK.swiftmodule/arm64-apple-ios.swiftmodule</key>
+		<data>
+		ydlHRrUggnABWOEP11fcb5UDucs=
+>>>>>>> Stashed changes
 		</data>
 		<key>OFL.txt</key>
 		<data>
@@ -265,14 +281,22 @@
 		<dict>
 			<key>hash2</key>
 			<data>
+<<<<<<< Updated upstream
 			GjQghmI8Woe19+CSeMmKhDGgBpXL92yMSkjT67UlXDk=
+=======
+			n6p15o3kDNPPbEFsagD2oiZNWU6Fv8tSub7f1I3vQYM=
+>>>>>>> Stashed changes
 			</data>
 		</dict>
 		<key>Modules/MeshulamSDK.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
+<<<<<<< Updated upstream
 			a2ifTr/m6ZA7zIk9Hvv0cSYPjDAErdsS7Nqrykjim2o=
+=======
+			pUMfPHWU6aDPqO9lDvpSONVpojD/sPx2pCo+ffQEdT0=
+>>>>>>> Stashed changes
 			</data>
 		</dict>
 		<key>Modules/MeshulamSDK.swiftmodule/arm64-apple-ios.swiftdoc</key>
@@ -286,14 +310,22 @@
 		<dict>
 			<key>hash2</key>
 			<data>
+<<<<<<< Updated upstream
 			a2ifTr/m6ZA7zIk9Hvv0cSYPjDAErdsS7Nqrykjim2o=
+=======
+			pUMfPHWU6aDPqO9lDvpSONVpojD/sPx2pCo+ffQEdT0=
+>>>>>>> Stashed changes
 			</data>
 		</dict>
 		<key>Modules/MeshulamSDK.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
+<<<<<<< Updated upstream
 			465yw4lssjFC+laXQ58EcF61N8ZfQ2m78wVebVmQlDE=
+=======
+			Jzq7qEbwsL3gmUUIzGATT70smzA/hA6Onp5IaWw92iM=
+>>>>>>> Stashed changes
 			</data>
 		</dict>
 		<key>OFL.txt</key>

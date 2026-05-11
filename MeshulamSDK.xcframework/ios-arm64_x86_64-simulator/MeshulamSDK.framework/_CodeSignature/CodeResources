@@ -34,7 +34,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		cNThmT84T37sCVDkbqTT9dn0zbI=
+		VaY+OgukLRf50JtUvxhSmrySAg0=
 		</data>
 		<key>MeshulamLoader.gif</key>
 		<data>
@@ -66,11 +66,19 @@
 		</data>
 		<key>Modules/MeshulamSDK.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
+<<<<<<< Updated upstream
 		vJt+5RoogvzQzTnltf6JQ+ABNJ8=
 		</data>
 		<key>Modules/MeshulamSDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
 		pM31VOx8OkfrBlw/V2KCB7M543s=
+=======
+		x2h2gSmKwox2XI1PeHlQjBjJP+I=
+		</data>
+		<key>Modules/MeshulamSDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
+		<data>
+		0Lz4qPWmu/aHCbYxaaUpzMmcu54=
+>>>>>>> Stashed changes
 		</data>
 		<key>Modules/MeshulamSDK.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -78,11 +86,19 @@
 		</data>
 		<key>Modules/MeshulamSDK.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
+<<<<<<< Updated upstream
 		pM31VOx8OkfrBlw/V2KCB7M543s=
 		</data>
 		<key>Modules/MeshulamSDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
 		CtFm3yAqySJ1GmEjZ5G2Gpaev8E=
+=======
+		0Lz4qPWmu/aHCbYxaaUpzMmcu54=
+		</data>
+		<key>Modules/MeshulamSDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
+		<data>
+		JE8EcH4tAceilxeqge0aphZCBYk=
+>>>>>>> Stashed changes
 		</data>
 		<key>OFL.txt</key>
 		<data>
@@ -265,14 +281,22 @@
 		<dict>
 			<key>hash2</key>
 			<data>
+<<<<<<< Updated upstream
 			GjQghmI8Woe19+CSeMmKhDGgBpXL92yMSkjT67UlXDk=
+=======
+			n6p15o3kDNPPbEFsagD2oiZNWU6Fv8tSub7f1I3vQYM=
+>>>>>>> Stashed changes
 			</data>
 		</dict>
 		<key>Modules/MeshulamSDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
+<<<<<<< Updated upstream
 			3Cdys95gDekL9VMyrh5O+7VNWuxU6RrKR3iS2eKX8Hk=
+=======
+			IFXj6GDKP33kh6fqk2z/8jWTqavJ5wKvD1kbbxDkqds=
+>>>>>>> Stashed changes
 			</data>
 		</dict>
 		<key>Modules/MeshulamSDK.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
@@ -286,14 +310,22 @@
 		<dict>
 			<key>hash2</key>
 			<data>
+<<<<<<< Updated upstream
 			3Cdys95gDekL9VMyrh5O+7VNWuxU6RrKR3iS2eKX8Hk=
+=======
+			IFXj6GDKP33kh6fqk2z/8jWTqavJ5wKvD1kbbxDkqds=
+>>>>>>> Stashed changes
 			</data>
 		</dict>
 		<key>Modules/MeshulamSDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
+<<<<<<< Updated upstream
 			yZHS2GVsEneRppwabSHmIhpDXFWwHe/0WScvqcFWHV0=
+=======
+			y41KVLtwrCEoi9562lacE+3iPWddf/8G0uMumaeuiKE=
+>>>>>>> Stashed changes
 			</data>
 		</dict>
 		<key>OFL.txt</key>

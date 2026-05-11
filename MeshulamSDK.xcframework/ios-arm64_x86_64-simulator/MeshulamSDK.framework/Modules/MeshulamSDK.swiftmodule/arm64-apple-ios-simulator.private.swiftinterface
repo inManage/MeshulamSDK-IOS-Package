@@ -162,6 +162,7 @@ public enum statusType {
     get
   }
   public func sendRequest(_ request: MeshulamSDK.MeshulamBaseRequest)
+  public func resetBaseURL()
   public func fillWithInitSDKResponse(_ response: MeshulamSDK.InitSDKResponse)
   @objc public func updateTimer()
   public func stopTimer()
