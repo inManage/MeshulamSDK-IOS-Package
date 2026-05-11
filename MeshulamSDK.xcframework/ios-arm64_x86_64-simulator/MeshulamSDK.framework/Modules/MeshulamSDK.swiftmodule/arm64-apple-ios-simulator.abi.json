@@ -2096,7 +2096,7 @@
           {
             "kind": "Function",
             "name": "createPaymentProcess",
-            "printedName": "createPaymentProcess(pageCode:apiKey:userId:fullName:phoneNumber:sum:email:description:saveCardToken:companyCommission:delegate:)",
+            "printedName": "createPaymentProcess(pageCode:apiKey:userId:fullName:phoneNumber:sum:email:description:saveCardToken:companyCommission:delegate:cFields:notifyUrl:)",
             "children": [
               {
                 "kind": "TypeNominal",
@@ -2213,13 +2213,51 @@
                 ],
                 "hasDefaultArg": true,
                 "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "[Swift.String]?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Array",
+                    "printedName": "[Swift.String]",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "String",
+                        "printedName": "Swift.String",
+                        "usr": "s:SS"
+                      }
+                    ],
+                    "usr": "s:Sa"
+                  }
+                ],
+                "hasDefaultArg": true,
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "hasDefaultArg": true,
+                "usr": "s:Sq"
               }
             ],
             "declKind": "Func",
-            "usr": "c:@M@MeshulamSDK@objc(cs)Meshulam(im)createPaymentProcessWithPageCode:apiKey:userId:fullName:phoneNumber:sum:email:description:saveCardToken:companyCommission:delegate:",
-            "mangledName": "$s11MeshulamSDK0A0C20createPaymentProcess8pageCode6apiKey6userId8fullName11phoneNumber3sum5email11description13saveCardToken17companyCommission8delegateySS_S6SSgA3pA0A8Delegate_pSgtF",
+            "usr": "c:@M@MeshulamSDK@objc(cs)Meshulam(im)createPaymentProcessWithPageCode:apiKey:userId:fullName:phoneNumber:sum:email:description:saveCardToken:companyCommission:delegate:cFields:notifyUrl:",
+            "mangledName": "$s11MeshulamSDK0A0C20createPaymentProcess8pageCode6apiKey6userId8fullName11phoneNumber3sum5email11description13saveCardToken17companyCommission8delegate7cFields9notifyUrlySS_S6SSgA3rA0A8Delegate_pSgSaySSGSgARtF",
             "moduleName": "MeshulamSDK",
-            "objc_name": "createPaymentProcessWithPageCode:apiKey:userId:fullName:phoneNumber:sum:email:description:saveCardToken:companyCommission:delegate:",
+            "objc_name": "createPaymentProcessWithPageCode:apiKey:userId:fullName:phoneNumber:sum:email:description:saveCardToken:companyCommission:delegate:cFields:notifyUrl:",
             "declAttributes": [
               "AccessControl",
               "ObjC"
@@ -8317,11 +8355,7 @@
     {
       "filePath": "\/Users\/omerm\/Documents\/GitHub\/MeshulamSDK-iOS-Source\/MeshulamSDK\/Api\/Meshulam.swift",
       "kind": "Dictionary",
-<<<<<<< Updated upstream
-      "offset": 5999,
-=======
       "offset": 6326,
->>>>>>> Stashed changes
       "length": 3,
       "value": "[]"
     },
